@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jerryq0101
+- 👀 I’m interested in blockchain and ethereum development
+- 🌱 I’m currently learning solidity and python
+- 💞️ I’m looking to collaborate on different projects
+- 📫 You can reach me thru email and linkedin: https://www.linkedin.com/in/jerry-qi-a60a451b7/ 
