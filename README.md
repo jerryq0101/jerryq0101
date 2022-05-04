@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @jerryq0101
-- 👀 I’m interested in blockchain and ethereum development
-- 🌱 I’m currently building with react and working on my dao
+- 🌲 Currently building to connect web3 to sustainability
